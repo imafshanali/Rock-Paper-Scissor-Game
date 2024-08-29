@@ -4,6 +4,7 @@
 The "Rock Paper Scissors" game is a simple web-based application that allows users to play the classic game against a computer. The game is built using HTML, CSS, and JavaScript, offering an interactive and responsive user experience.
 
 - Files Overview
+  
 index.html: The main HTML file that structures the game’s interface, including buttons for each move (rock, paper, scissors) and a scoreboard to display the user's and computer's scores.
 
 style.css: The CSS file that styles the game's interface. It provides the layout for the game elements, including the images for each move, the scoreboard, and the messages that display game results.
